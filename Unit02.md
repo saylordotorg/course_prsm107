@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRSM107: Crisis Communication"
+course_description: "This course is designed for practical applications of crisis communication principles, which can be used to protect and defend a company or organization facing a problem or challenge that threatens to harm its brand or reputation."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Preparing for a Crisis** <span id="2"></span> 
 *Unit 2 will provide you with specific steps for preparing for a crisis.
 This unit begins with an overview that explores how you can use a SWOT

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRSM107: Crisis Communication"
+course_description: "This course is designed for practical applications of crisis communication principles, which can be used to protect and defend a company or organization facing a problem or challenge that threatens to harm its brand or reputation."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Using Social Media During a Crisis** <span id="3"></span> 
 *It is no secret that using social media during a crisis is a must.
 There have been recent crisis events, such as a natural disaster, where

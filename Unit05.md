@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRSM107: Crisis Communication"
+course_description: "This course is designed for practical applications of crisis communication principles, which can be used to protect and defend a company or organization facing a problem or challenge that threatens to harm its brand or reputation."
+next: ../../../
+previous: ../Unit04
+---
 **Unit 5: Developing Strategic Messages** <span id="5"></span> 
 *Unit 5 will focus on how to use key messages to tell your company’s
 story and how to incorporate key strategic messages in online and

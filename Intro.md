@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRSM107: Crisis Communication"
+course_description: "This course is designed for practical applications of crisis communication principles, which can be used to protect and defend a company or organization facing a problem or challenge that threatens to harm its brand or reputation."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "PRSM107: Crisis Communication"
 ---------------------------------------------------
 

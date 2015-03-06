@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRSM107: Crisis Communication"
+course_description: "This course is designed for practical applications of crisis communication principles, which can be used to protect and defend a company or organization facing a problem or challenge that threatens to harm its brand or reputation."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Designing a Crisis Communication Plan (CCP)** <span
 id="4"></span> 
 *There is no one size fits all when it comes to crisis communication
